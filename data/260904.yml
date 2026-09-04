@@ -7,7 +7,7 @@ about:
   head: 328f4b4
   archived: false
   latestVersion: v13.0.1
-  collectedAt: 2026-09-04T19:20:46Z
+  collectedAt: 2026-09-04T21:15:19Z
 timeline:
   created: 2016-09-05
   lastCommit: 2026-08-07
@@ -84,6 +84,49 @@ total:
   openIssue: 184
   commit: 2455
 ---
+path: /home/runner/.x-repo/github.com/Jguer/yay
+collectedAt: 2026-09-04T21:15:20Z
+loc:
+  Go:
+    code: 28093
+    comments: 930
+    blanks: 4841
+    files: 161
+  Lua:
+    code: 224
+    comments: 363
+    blanks: 79
+    files: 7
+  Makefile:
+    code: 107
+    comments: 1
+    blanks: 27
+    files: 1
+  Json:
+    code: 53
+    comments: 0
+    blanks: 0
+    files: 12
+  Bitbake:
+    code: 29
+    comments: 53
+    blanks: 15
+    files: 1
+  Dockerfile:
+    code: 24
+    comments: 1
+    blanks: 8
+    files: 2
+  Markdown:
+    code: 0
+    comments: 435
+    blanks: 219
+    files: 5
+total:
+  code: 28788
+  comments: 1787
+  blanks: 5194
+  files: 189
 ---
 date: "2026-08-24"
 repo:
