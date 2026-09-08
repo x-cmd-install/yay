@@ -5,7 +5,7 @@ about:
   head: 328f4b4
   archived: false
   latestVersion: "v13.0.1"
-  collectedAt: 2026-09-08T03:10:48Z
+  collectedAt: 2026-09-08T05:51:59Z
 timeline:
   created: 2016-09-05
   lastCommit: 2026-08-07
@@ -83,7 +83,7 @@ total:
   commit: 2455
 ---
 path: /home/runner/.x-repo/github.com/Jguer/yay
-collectedAt: 2026-09-08T03:10:50Z
+collectedAt: 2026-09-08T05:52:01Z
 loc:
   Go:
     code: 28093
