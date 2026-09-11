@@ -7,7 +7,7 @@ about:
   latestVersion: "v13.0.1"
   latestRelease: "v13.0.1"
   latestPrerelease: "v11.0.0-rc1"
-  collectedAt: 2026-09-11T05:57:50Z
+  collectedAt: 2026-09-11T18:55:20Z
 timeline:
   created: 2016-09-05
   lastCommit: 2026-08-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 2021-09-15
 popularity:
-  star: 13747
+  star: 13745
   watcher: 76
   fork: 422
   release: 104
@@ -87,7 +87,7 @@ total:
   commit: 2455
 ---
 path: /home/runner/.x-repo/github.com/Jguer/yay
-collectedAt: 2026-09-11T05:57:53Z
+collectedAt: 2026-09-11T18:55:24Z
 loc:
   Go:
     code: 28093
