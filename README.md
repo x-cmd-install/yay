@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 6 | 0 | 3 | 0 |
-| last60d | 2026-07-19 | 0 | 15 | 19 | 12 | 7 | 14 |
-| 90d | 2026-06-19 | 1 | 37 | 20 | 16 | 16 | 37 |
-| last180d | 2026-03-21 | 3 | 81 | 23 | 33 | 30 | 82 |
-| 360d | 2025-09-22 | 8 | 143 | 27 | 59 | 56 | 140 |
-| last720d | 2024-09-27 | 9 | 225 | 27 | 103 | 82 | 229 |
+| 30d | 2026-08-19 | 0 | 0 | 6 | 0 | 2 | 0 |
+| last60d | 2026-07-20 | 0 | 13 | 19 | 12 | 7 | 14 |
+| 90d | 2026-06-20 | 0 | 36 | 20 | 16 | 13 | 37 |
+| last180d | 2026-03-22 | 3 | 81 | 23 | 32 | 30 | 82 |
+| 360d | 2025-09-23 | 8 | 141 | 27 | 58 | 56 | 140 |
+| last720d | 2024-09-28 | 9 | 225 | 27 | 103 | 82 | 226 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for yay lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:24:51Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:15:12Z._
