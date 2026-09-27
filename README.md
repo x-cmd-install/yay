@@ -14,11 +14,11 @@ x install yay
 
 ## Code insight
 
-Total: **28,530** lines of code across **182** files in the top 5 languages.
+Total: **28,650** lines of code across **183** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,093 | 930 | 4,841 | 161 |
+| Go | 28,213 | 935 | 4,862 | 162 |
 | Lua | 224 | 363 | 79 | 7 |
 | Makefile | 107 | 1 | 27 | 1 |
 | Json | 53 | 0 | 0 | 12 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v13.0.1` (2026-06-19)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-26
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 13,759 · **Forks**: 424 · **Open issues**: 1,639 · **Contributors**: 160
+- **Stars**: 13,760 · **Forks**: 424 · **Open issues**: 1,639 · **Contributors**: 161
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 1112 · **Open PRs**: 28 · **Closed issues**: 1453 · **Open issues**: 186 · **Commits**: 2457
+- **Releases**: 104 · **Merged PRs**: 1122 · **Open PRs**: 18 · **Closed issues**: 1455 · **Open issues**: 184 · **Commits**: 2467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 2 | 4 | 0 | 3 | 2 |
-| last60d | 2026-07-28 | 0 | 11 | 18 | 6 | 8 | 16 |
-| 90d | 2026-06-28 | 0 | 36 | 19 | 15 | 11 | 36 |
-| last180d | 2026-03-30 | 3 | 77 | 22 | 32 | 30 | 78 |
-| 360d | 2025-10-01 | 7 | 141 | 26 | 57 | 55 | 141 |
-| last720d | 2024-10-06 | 9 | 226 | 27 | 100 | 82 | 227 |
+| 30d | 2026-08-28 | 0 | 5 | 1 | 1 | 1 | 12 |
+| last60d | 2026-07-29 | 0 | 20 | 8 | 6 | 7 | 20 |
+| 90d | 2026-06-29 | 0 | 46 | 9 | 17 | 9 | 46 |
+| last180d | 2026-03-31 | 3 | 87 | 12 | 34 | 28 | 88 |
+| 360d | 2025-10-02 | 7 | 151 | 16 | 59 | 53 | 151 |
+| last720d | 2024-10-07 | 9 | 236 | 17 | 102 | 80 | 237 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for yay lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:54:35Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:20:38Z._
