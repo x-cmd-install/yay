@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 1122 · **Open PRs**: 22 · **Closed issues**: 1455 · **Open issues**: 186 · **Commits**: 2467
+- **Releases**: 104 · **Merged PRs**: 1122 · **Open PRs**: 23 · **Closed issues**: 1455 · **Open issues**: 186 · **Commits**: 2467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 5 | 5 | 1 | 3 | 12 |
-| last60d | 2026-08-09 | 0 | 8 | 10 | 2 | 7 | 12 |
-| 90d | 2026-07-10 | 0 | 40 | 13 | 17 | 10 | 40 |
-| last180d | 2026-04-11 | 3 | 87 | 16 | 33 | 30 | 87 |
-| 360d | 2025-10-13 | 7 | 149 | 20 | 57 | 53 | 150 |
-| last720d | 2024-10-18 | 9 | 233 | 21 | 102 | 82 | 237 |
+| 30d | 2026-09-09 | 0 | 5 | 5 | 1 | 3 | 12 |
+| last60d | 2026-08-10 | 0 | 8 | 11 | 2 | 6 | 12 |
+| 90d | 2026-07-11 | 0 | 40 | 14 | 17 | 10 | 40 |
+| last180d | 2026-04-12 | 3 | 87 | 17 | 33 | 30 | 87 |
+| 360d | 2025-10-14 | 7 | 149 | 21 | 57 | 53 | 150 |
+| last720d | 2024-10-19 | 9 | 232 | 22 | 102 | 82 | 237 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for yay lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:13:53Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:10:22Z._
