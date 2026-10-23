@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,789 · **Forks**: 430 · **Open issues**: 1,641 · **Contributors**: 161
+- **Stars**: 13,792 · **Forks**: 430 · **Open issues**: 1,641 · **Contributors**: 161
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 8 | 1 | 2 | 10 |
-| last60d | 2026-08-23 | 0 | 6 | 9 | 1 | 4 | 12 |
-| 90d | 2026-07-24 | 0 | 22 | 16 | 9 | 9 | 26 |
-| last180d | 2026-04-25 | 3 | 85 | 20 | 33 | 30 | 83 |
-| 360d | 2025-10-27 | 7 | 149 | 24 | 54 | 51 | 149 |
-| last720d | 2024-11-01 | 9 | 231 | 25 | 101 | 81 | 232 |
+| 30d | 2026-09-23 | 0 | 1 | 8 | 1 | 2 | 10 |
+| last60d | 2026-08-24 | 0 | 5 | 9 | 1 | 4 | 12 |
+| 90d | 2026-07-25 | 0 | 21 | 16 | 9 | 9 | 26 |
+| last180d | 2026-04-26 | 3 | 85 | 20 | 33 | 30 | 83 |
+| 360d | 2025-10-28 | 7 | 149 | 24 | 54 | 51 | 149 |
+| last720d | 2024-11-02 | 9 | 231 | 25 | 101 | 81 | 232 |
 
 ## Release assets
 
@@ -72,6 +72,14 @@ Lowest-scoring checks:
 | [yay_13.0.1_aarch64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_aarch64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
 | [yay_13.0.1_armv7h.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_armv7h.tar.gz) | 4.5 MiB | `native/linux/arm` |
 | [yay_13.0.1_x86_64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_x86_64.tar.gz) | 4.7 MiB | `native/linux/x64` |
+
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/yay). **9** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `13.0.1` | ✅ latest |
 
 ## Improve this data
 
@@ -82,4 +90,4 @@ Install metadata for yay lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:46:06Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:52:44Z._

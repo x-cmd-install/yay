@@ -48,7 +48,7 @@ x install yay
 
 ## 流行度
 
-- **Star**: 13,789 · **Fork**: 430 · **开放 issue**: 1,641 · **贡献者**: 161
+- **Star**: 13,792 · **Fork**: 430 · **开放 issue**: 1,641 · **贡献者**: 161
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install yay
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 8 | 1 | 2 | 10 |
-| last60d | 2026-08-23 | 0 | 6 | 9 | 1 | 4 | 12 |
-| 90d | 2026-07-24 | 0 | 22 | 16 | 9 | 9 | 26 |
-| last180d | 2026-04-25 | 3 | 85 | 20 | 33 | 30 | 83 |
-| 360d | 2025-10-27 | 7 | 149 | 24 | 54 | 51 | 149 |
-| last720d | 2024-11-01 | 9 | 231 | 25 | 101 | 81 | 232 |
+| 30d | 2026-09-23 | 0 | 1 | 8 | 1 | 2 | 10 |
+| last60d | 2026-08-24 | 0 | 5 | 9 | 1 | 4 | 12 |
+| 90d | 2026-07-25 | 0 | 21 | 16 | 9 | 9 | 26 |
+| last180d | 2026-04-26 | 3 | 85 | 20 | 33 | 30 | 83 |
+| 360d | 2025-10-28 | 7 | 149 | 24 | 54 | 51 | 149 |
+| last720d | 2024-11-02 | 9 | 231 | 25 | 101 | 81 | 232 |
 
 ## Release 资产
 
@@ -72,6 +72,14 @@ x install yay
 | [yay_13.0.1_aarch64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_aarch64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
 | [yay_13.0.1_armv7h.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_armv7h.tar.gz) | 4.5 MiB | `native/linux/arm` |
 | [yay_13.0.1_x86_64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_x86_64.tar.gz) | 4.7 MiB | `native/linux/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/yay) 上共有 **13** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `13.0.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -82,4 +90,4 @@ yay 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:46:06Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:52:45Z._
