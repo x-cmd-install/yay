@@ -14,12 +14,12 @@ x install yay
 
 ## Code insight
 
-Total: **28,650** lines of code across **183** files in the top 5 languages.
+Total: **28,718** lines of code across **184** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,213 | 935 | 4,862 | 162 |
-| Lua | 224 | 363 | 79 | 7 |
+| Go | 28,281 | 941 | 4,880 | 163 |
+| Lua | 224 | 364 | 79 | 7 |
 | Makefile | 107 | 1 | 27 | 1 |
 | Json | 53 | 0 | 0 | 12 |
 | Bitbake | 29 | 53 | 15 | 1 |
@@ -42,44 +42,44 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v13.0.1` (2026-06-19)
-- **Last commit**: 2026-09-26
+- **Latest**: `v13.1.0` (2026-10-28)
+- **Last commit**: 2026-10-28
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 13,804 · **Forks**: 430 · **Open issues**: 1,642 · **Contributors**: 161
+- **Stars**: 13,807 · **Forks**: 430 · **Open issues**: 1,644 · **Contributors**: 161
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 1122 · **Open PRs**: 28 · **Closed issues**: 1455 · **Open issues**: 187 · **Commits**: 2467
+- **Releases**: 105 · **Merged PRs**: 1124 · **Open PRs**: 29 · **Closed issues**: 1455 · **Open issues**: 189 · **Commits**: 2469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 10 | 0 | 3 | 0 |
-| last60d | 2026-08-29 | 0 | 5 | 11 | 1 | 4 | 12 |
-| 90d | 2026-07-30 | 0 | 18 | 18 | 6 | 10 | 20 |
-| last180d | 2026-05-01 | 3 | 83 | 22 | 32 | 30 | 83 |
-| 360d | 2025-11-02 | 7 | 149 | 26 | 54 | 51 | 149 |
-| last720d | 2024-11-07 | 9 | 231 | 27 | 101 | 82 | 232 |
+| 30d | 2026-09-29 | 1 | 2 | 11 | 0 | 5 | 2 |
+| last60d | 2026-08-30 | 1 | 7 | 12 | 1 | 6 | 14 |
+| 90d | 2026-07-31 | 1 | 19 | 19 | 5 | 12 | 22 |
+| last180d | 2026-05-02 | 4 | 85 | 23 | 32 | 32 | 85 |
+| 360d | 2025-11-03 | 8 | 151 | 27 | 54 | 53 | 151 |
+| last720d | 2024-11-08 | 10 | 233 | 28 | 101 | 83 | 234 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [yay_13.0.1_aarch64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_aarch64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [yay_13.0.1_armv7h.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_armv7h.tar.gz) | 4.5 MiB | `native/linux/arm` |
-| [yay_13.0.1_x86_64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_x86_64.tar.gz) | 4.7 MiB | `native/linux/x64` |
+| [yay_13.1.0_aarch64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_aarch64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [yay_13.1.0_armv7h.tar.gz](https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_armv7h.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [yay_13.1.0_x86_64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/yay). **9** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **13** distros on [repology.org](https://repology.org/project/yay). **4** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `13.0.1` | ✅ latest |
+| Nix unstable | `13.0.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -90,4 +90,4 @@ Install metadata for yay lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:48:41Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:12:42Z._

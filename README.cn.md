@@ -14,12 +14,12 @@ x install yay
 
 ## 代码洞察
 
-合计: **28,650** 行代码（覆盖前 5 种语言、共 **183** 个文件）。
+合计: **28,718** 行代码（覆盖前 5 种语言、共 **184** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 28,213 | 935 | 4,862 | 162 |
-| Lua | 224 | 363 | 79 | 7 |
+| Go | 28,281 | 941 | 4,880 | 163 |
+| Lua | 224 | 364 | 79 | 7 |
 | Makefile | 107 | 1 | 27 | 1 |
 | Json | 53 | 0 | 0 | 12 |
 | Bitbake | 29 | 53 | 15 | 1 |
@@ -42,44 +42,44 @@ x install yay
 
 ## 发布
 
-- **最新版本**: `v13.0.1` (2026-06-19)
-- **最近提交**: 2026-09-26
+- **最新版本**: `v13.1.0` (2026-10-28)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 13,804 · **Fork**: 430 · **开放 issue**: 1,642 · **贡献者**: 161
+- **Star**: 13,807 · **Fork**: 430 · **开放 issue**: 1,644 · **贡献者**: 161
 
 ## 累计统计
 
-- **发布数**: 104 · **已合并 PR**: 1122 · **开放 PR**: 28 · **已关闭 issue**: 1455 · **开放 issue**: 187 · **提交数**: 2467
+- **发布数**: 105 · **已合并 PR**: 1124 · **开放 PR**: 29 · **已关闭 issue**: 1455 · **开放 issue**: 189 · **提交数**: 2469
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 10 | 0 | 3 | 0 |
-| last60d | 2026-08-29 | 0 | 5 | 11 | 1 | 4 | 12 |
-| 90d | 2026-07-30 | 0 | 18 | 18 | 6 | 10 | 20 |
-| last180d | 2026-05-01 | 3 | 83 | 22 | 32 | 30 | 83 |
-| 360d | 2025-11-02 | 7 | 149 | 26 | 54 | 51 | 149 |
-| last720d | 2024-11-07 | 9 | 231 | 27 | 101 | 82 | 232 |
+| 30d | 2026-09-29 | 1 | 2 | 11 | 0 | 5 | 2 |
+| last60d | 2026-08-30 | 1 | 7 | 12 | 1 | 6 | 14 |
+| 90d | 2026-07-31 | 1 | 19 | 19 | 5 | 12 | 22 |
+| last180d | 2026-05-02 | 4 | 85 | 23 | 32 | 32 | 85 |
+| 360d | 2025-11-03 | 8 | 151 | 27 | 54 | 53 | 151 |
+| last720d | 2024-11-08 | 10 | 233 | 28 | 101 | 83 | 234 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [yay_13.0.1_aarch64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_aarch64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [yay_13.0.1_armv7h.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_armv7h.tar.gz) | 4.5 MiB | `native/linux/arm` |
-| [yay_13.0.1_x86_64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.0.1/yay_13.0.1_x86_64.tar.gz) | 4.7 MiB | `native/linux/x64` |
+| [yay_13.1.0_aarch64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_aarch64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [yay_13.1.0_armv7h.tar.gz](https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_armv7h.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [yay_13.1.0_x86_64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/yay) 上共有 **13** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/yay) 上共有 **13** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Nix unstable | `13.0.1` | ✅ latest |
+| Nix unstable | `13.0.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -90,4 +90,4 @@ yay 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T06:48:41Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T07:12:43Z._
