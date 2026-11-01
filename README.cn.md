@@ -48,22 +48,22 @@ x install yay
 
 ## 流行度
 
-- **Star**: 13,814 · **Fork**: 433 · **开放 issue**: 1,645 · **贡献者**: 161
+- **Star**: 13,814 · **Fork**: 433 · **开放 issue**: 1,646 · **贡献者**: 161
 
 ## 累计统计
 
-- **发布数**: 105 · **已合并 PR**: 1124 · **开放 PR**: 31 · **已关闭 issue**: 1455 · **开放 issue**: 190 · **提交数**: 2469
+- **发布数**: 105 · **已合并 PR**: 1124 · **开放 PR**: 31 · **已关闭 issue**: 1455 · **开放 issue**: 191 · **提交数**: 2469
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 2 | 13 | 0 | 6 | 2 |
-| last60d | 2026-09-01 | 1 | 7 | 14 | 1 | 7 | 14 |
-| 90d | 2026-08-02 | 1 | 18 | 21 | 4 | 13 | 22 |
-| last180d | 2026-05-04 | 4 | 84 | 25 | 32 | 33 | 85 |
-| 360d | 2025-11-05 | 8 | 151 | 29 | 53 | 52 | 151 |
-| last720d | 2024-11-10 | 10 | 233 | 30 | 101 | 83 | 234 |
+| 30d | 2026-10-02 | 1 | 2 | 12 | 0 | 7 | 2 |
+| last60d | 2026-09-02 | 1 | 7 | 14 | 1 | 8 | 14 |
+| 90d | 2026-08-03 | 1 | 18 | 21 | 4 | 14 | 14 |
+| last180d | 2026-05-05 | 4 | 84 | 25 | 32 | 34 | 84 |
+| 360d | 2025-11-06 | 8 | 151 | 29 | 53 | 53 | 151 |
+| last720d | 2024-11-11 | 10 | 233 | 30 | 101 | 84 | 234 |
 
 ## Release 资产
 
@@ -72,14 +72,6 @@ x install yay
 | [yay_13.1.0_aarch64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_aarch64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
 | [yay_13.1.0_armv7h.tar.gz](https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_armv7h.tar.gz) | 4.8 MiB | `native/linux/arm` |
 | [yay_13.1.0_x86_64.tar.gz](https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/yay) 上共有 **13** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `13.0.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -90,4 +82,4 @@ yay 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T06:50:34Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T07:07:44Z._
