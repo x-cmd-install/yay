@@ -26,11 +26,11 @@ x install yay
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.9 / 10**
+总评分: **6.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 5/14 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -48,22 +48,22 @@ x install yay
 
 ## 流行度
 
-- **Star**: 13,816 · **Fork**: 433 · **开放 issue**: 1,647 · **贡献者**: 161
+- **Star**: 13,818 · **Fork**: 434 · **开放 issue**: 1,647 · **贡献者**: 161
 
 ## 累计统计
 
-- **发布数**: 105 · **已合并 PR**: 1124 · **开放 PR**: 31 · **已关闭 issue**: 1455 · **开放 issue**: 192 · **提交数**: 2469
+- **发布数**: 105 · **已合并 PR**: 1124 · **开放 PR**: 32 · **已关闭 issue**: 1455 · **开放 issue**: 192 · **提交数**: 2469
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 2 | 11 | 0 | 7 | 2 |
-| last60d | 2026-09-04 | 1 | 7 | 14 | 1 | 9 | 14 |
-| 90d | 2026-08-05 | 1 | 18 | 21 | 3 | 15 | 14 |
-| last180d | 2026-05-07 | 4 | 84 | 24 | 32 | 34 | 84 |
-| 360d | 2025-11-08 | 8 | 151 | 29 | 52 | 54 | 151 |
-| last720d | 2024-11-13 | 10 | 232 | 30 | 100 | 85 | 233 |
+| 30d | 2026-10-05 | 1 | 2 | 12 | 0 | 7 | 2 |
+| last60d | 2026-09-05 | 1 | 7 | 15 | 1 | 9 | 14 |
+| 90d | 2026-08-06 | 1 | 18 | 22 | 3 | 15 | 14 |
+| last180d | 2026-05-08 | 4 | 84 | 25 | 32 | 34 | 84 |
+| 360d | 2025-11-09 | 8 | 151 | 30 | 51 | 54 | 151 |
+| last720d | 2024-11-14 | 10 | 232 | 31 | 100 | 84 | 233 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ yay 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T08:06:49Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:34:43Z._
