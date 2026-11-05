@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,818 · **Forks**: 434 · **Open issues**: 1,647 · **Contributors**: 161
+- **Stars**: 13,817 · **Forks**: 435 · **Open issues**: 1,647 · **Contributors**: 161
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 1124 · **Open PRs**: 32 · **Closed issues**: 1455 · **Open issues**: 192 · **Commits**: 2469
+- **Releases**: 105 · **Merged PRs**: 1124 · **Open PRs**: 33 · **Closed issues**: 1456 · **Open issues**: 191 · **Commits**: 2469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 2 | 12 | 0 | 7 | 2 |
-| last60d | 2026-09-05 | 1 | 7 | 15 | 1 | 9 | 14 |
-| 90d | 2026-08-06 | 1 | 18 | 22 | 3 | 15 | 14 |
-| last180d | 2026-05-08 | 4 | 84 | 25 | 32 | 34 | 84 |
-| 360d | 2025-11-09 | 8 | 151 | 30 | 51 | 54 | 151 |
-| last720d | 2024-11-14 | 10 | 232 | 31 | 100 | 84 | 233 |
+| 30d | 2026-10-06 | 1 | 2 | 13 | 1 | 6 | 2 |
+| last60d | 2026-09-06 | 1 | 7 | 16 | 2 | 8 | 14 |
+| 90d | 2026-08-07 | 1 | 11 | 21 | 3 | 12 | 14 |
+| last180d | 2026-05-09 | 4 | 84 | 26 | 32 | 33 | 84 |
+| 360d | 2025-11-10 | 8 | 151 | 31 | 52 | 53 | 151 |
+| last720d | 2024-11-15 | 10 | 231 | 32 | 101 | 83 | 233 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for yay lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:34:42Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:52:58Z._
