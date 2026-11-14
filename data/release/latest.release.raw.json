@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4683662,
       "digest": "sha256:be9bde82b0ae601365bf38515a4bfe60840a0b9945994cc8631a974c0492aa2c",
-      "download_count": 988,
+      "download_count": 1040,
       "created_at": "2026-10-28T09:56:24Z",
       "updated_at": "2026-10-28T09:56:25Z",
       "browser_download_url": "https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_aarch64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5030697,
       "digest": "sha256:92b4efa177c5820ce849b7933d67cff297b1a671c3a55580a83eaf030763077d",
-      "download_count": 127,
+      "download_count": 132,
       "created_at": "2026-10-28T09:56:24Z",
       "updated_at": "2026-10-28T09:56:25Z",
       "browser_download_url": "https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_armv7h.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5219012,
       "digest": "sha256:18acab0ff3aa3927eba21cd774bac52cfd6dd366dc68b0d1a12b10120190cd3c",
-      "download_count": 56317,
+      "download_count": 58716,
       "created_at": "2026-10-28T09:56:24Z",
       "updated_at": "2026-10-28T09:56:25Z",
       "browser_download_url": "https://github.com/Jguer/yay/releases/download/v13.1.0/yay_13.1.0_x86_64.tar.gz"
