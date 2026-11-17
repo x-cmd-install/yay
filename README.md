@@ -14,11 +14,11 @@ x install yay
 
 ## Code insight
 
-Total: **28,796** lines of code across **184** files in the top 5 languages.
+Total: **29,378** lines of code across **184** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,359 | 941 | 4,888 | 163 |
+| Go | 28,941 | 939 | 4,940 | 163 |
 | Lua | 224 | 364 | 79 | 7 |
 | Makefile | 107 | 1 | 27 | 1 |
 | Json | 53 | 0 | 0 | 12 |
@@ -26,11 +26,11 @@ Total: **28,796** lines of code across **184** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.8 / 10**
+Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 5/14 approved changesets -- score normalized to 3
+- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v13.1.0` (2026-10-28)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 13,840 · **Forks**: 440 · **Open issues**: 1,650 · **Contributors**: 160
+- **Stars**: 13,837 · **Forks**: 439 · **Open issues**: 1,650 · **Contributors**: 160
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 1126 · **Open PRs**: 39 · **Closed issues**: 1455 · **Open issues**: 195 · **Commits**: 2472
+- **Releases**: 105 · **Merged PRs**: 1131 · **Open PRs**: 34 · **Closed issues**: 1455 · **Open issues**: 195 · **Commits**: 2477
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 5 | 17 | 1 | 9 | 5 |
-| last60d | 2026-09-17 | 1 | 6 | 21 | 2 | 11 | 15 |
-| 90d | 2026-08-18 | 1 | 10 | 23 | 2 | 14 | 17 |
-| last180d | 2026-05-20 | 4 | 85 | 32 | 29 | 36 | 86 |
-| 360d | 2025-11-21 | 8 | 150 | 37 | 52 | 56 | 154 |
-| last720d | 2024-11-26 | 10 | 231 | 38 | 100 | 87 | 233 |
+| 30d | 2026-10-18 | 1 | 10 | 12 | 1 | 9 | 10 |
+| last60d | 2026-09-18 | 1 | 11 | 16 | 2 | 11 | 20 |
+| 90d | 2026-08-19 | 1 | 15 | 18 | 2 | 13 | 22 |
+| last180d | 2026-05-21 | 4 | 90 | 27 | 29 | 36 | 91 |
+| 360d | 2025-11-22 | 8 | 155 | 32 | 52 | 55 | 159 |
+| last720d | 2024-11-27 | 10 | 236 | 33 | 100 | 87 | 238 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for yay lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:22:02Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:46:54Z._
